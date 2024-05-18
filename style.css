@@ -1,0 +1,25 @@
+:root{
+    --color-primary: #225930;
+    --color-secundary:#D9CC8B;
+    --color-terciary: #192E40;
+}
+
+header {
+    background-color: var(--color-primary);
+    
+}
+
+body {
+    background-image: url("resource/boca.jpeg"); /* URL de la imagen */
+    background-size:cover; /* Ajusta la imagen para que cubra todo el cuerpo */
+}
+
+form{
+    background-color: #D9CC8B;
+    border-radius: 8%;
+}
+
+.card {
+    width: 15rem;
+}
+
